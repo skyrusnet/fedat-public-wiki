@@ -12,6 +12,8 @@ dateCreated: 2026-05-11T01:04:47.917Z
 
 **Главная для пользователей:** [home](/ru/home) (не эта страница).
 
-**Операционный контур (compas):** отдельно — `FOUNDER_RULES`, `MVP_CONSTRAINTS` в репо compas (`i:\fedat\wiki\`, целевое имя папки `compas\`). Не путать с этим репо.
+**Операционный контур (compas):** отдельно — в директории strategiya. 
 
-Синхронизация: GitHub `skyrusnet/fedat-public-wiki`. Целевой путь в workspace: `i:\fedat\fedat-public-wiki\` (см. `../WORKSPACE.md`).
+**Инфра и продуктовые решения (prod):** отдельно — в директории resheniya. 
+
+Синхронизация: GitHub `skyrusnet/fedat-public-wiki`. 
